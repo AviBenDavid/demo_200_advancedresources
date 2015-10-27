@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Demo_200_advancedResources</string>
+    <string name="title_activity_main">MainActivity</string>
+    
+    <string name="title">some title</string>
+    <string name="service">service</string>
+    <string name="quality">quality</string>
+    <string name="another_parameter">another parameter</string>
+    <string name="btn_save">save</string>
+    <string name="btn_clear">clear</string>
+    <string name="btn_back">back</string>
+    <string name="hello">HELLO THERE</string>
+
+</resources>

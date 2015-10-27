@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="box_margin">30dp</dimen>
+    <dimen name="textLabel">50sp</dimen>
+    <dimen name="textButtons">60sp</dimen>
+    <dimen name="textTitle">100sp</dimen>
+</resources>

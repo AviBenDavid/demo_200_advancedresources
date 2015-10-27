@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bkg">#4c66a4</color>
+    <color name="red">#faa</color>
+    <color name="green">#afa</color>
+    <color name="blue">#aaf</color>
+    <color name="white">#eee</color>
+</resources>

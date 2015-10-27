@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title">כותרת</string>
+    <string name="service">שרות</string>
+    <string name="quality">איכות</string>
+    <string name="another_parameter">עוד פרמטר</string>
+    <string name="btn_save">שמור</string>
+    <string name="btn_clear">נקה</string>
+    <string name="btn_back">חזור</string>
+    <string name="hello">אהלן</string>
+
+</resources>
